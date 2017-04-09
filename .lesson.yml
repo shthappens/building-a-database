@@ -1,0 +1,7 @@
+---
+title: "Building A Database"
+type: "exercise"
+description: "Normalize CSV data with a relation database"
+tags: "csv, sql, databases"
+ignore:
+- "building-a-database.md"
